@@ -107,6 +107,11 @@ a {
     float: left;
     margin-right:15px;
     overflow: auto; 
+    clear: left;
+}
+
+.mazlici h2 {
+    margin-top: 100px;
 }
 
 .mia, .agi {

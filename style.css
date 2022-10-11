@@ -110,8 +110,10 @@ a {
     clear: left;
 }
 
-.mazlici h2 {
+.mazlici h3 {
     margin-top: 100px;
+    text-align: center;
+    font-size: 40px;
 }
 
 .mia, .agi {
